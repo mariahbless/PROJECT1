@@ -1,0 +1,40 @@
+body{
+    
+    background: url(../images/cccccccc.jpg);
+    background-size: cover;
+
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 25px;
+
+}
+ul li a{
+    text-decoration: none;
+    color:lightblue;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+
+
+.sign a{
+    font-family: Arial;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom:20px ;
+
+}
+
+    

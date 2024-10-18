@@ -1,0 +1,38 @@
+table{
+    border: 3px;
+    text-align: left;
+    tab-size: 5px;
+    border-radius: 5px;
+    color: darkturquoise;
+}
+th,td{
+    border: 3px solid darkturquoise;
+}
+th{
+    border-collapse: collapse;
+}
+
+body{
+background-color: bisque;
+
+}
+
+h1{
+    color: blue;
+    font-style: oblique;
+}
+
+li{
+    color: blueviolet;
+    font-style: italic;
+}
+
+p{
+    color: orchid;
+}
+blockquote{
+    color: blueviolet;
+}
+caption{
+    color: red;
+}
